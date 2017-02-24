@@ -15,8 +15,10 @@ Use at your own risk, you may not have to modify the base scripts - but will hav
 I'm not sure if Starvault implemented automatic ways of bot detection, can get around by hiding the AHK executable in whatever way you choose - or just by not using AHK, adapt the basic logic for use in something else.
 In case they do have some of automatic detection outside of that, introduce variation to wait times and click positions - will make it harder. Although none of that will stop a GM from figuring out your using these kinds of macros.
 But can easily be used for being semi-afk such as crafting/extraction, the mining/woodcutting macro would just be the most obvious one they would want to target.
+
 ---
 Probably not going to do individual documentation for each one.
 The only thing to add in addition to the mining macro, it offers the option to use IrfanView to take screenshots if your character dies - and will snapshot the screen to get the attacks name.
 Was just the easiest way to do it at the time, there are other methods to take a screnshot through AHK.
+
 [IrfanView](http://www.irfanview.com/)
