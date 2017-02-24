@@ -3,6 +3,7 @@ All work off the same basic functions by checking for an image and clicking/deci
 All can easily be repurposed for something else in the game.
 
 Not including the executables, just download AHK and build them.
+
 [Autohotkey](https://autohotkey.com/)
 
 ---
