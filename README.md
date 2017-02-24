@@ -13,7 +13,7 @@ I wouldn't advise using any of these now that StarVault would deem them bots.
 
 Use at your own risk, you may not have to modify the base scripts - but will have to capture new image segments for detection.
 I'm not sure if Starvault implemented automatic ways of bot detection, can get around by hiding the AHK executable in whatever way you choose - or just by not using AHK, adapt the basic logic for use in something else.
-In case they do have some of automatic detection outside of that, introduce variation to wait times and click positions - will make it harder. Although none of that will stop a GM from figuring out your using these kinds of macros.
+In case they do have some of automatic detection outside of that, introduce variation to wait times and click positions - will make it harder. Although none of that will stop a GM from figuring out you're using these kinds of macros.
 But can easily be used for being semi-afk such as crafting/extraction, the mining/woodcutting macro would just be the most obvious one they would want to target.
 
 ---
